@@ -1,0 +1,86 @@
+body 	{
+	background-color: #baa1ce;
+}
+
+h1	{
+		display: inline-block;
+		font-family: Arial;
+		color: white;
+		margin-left: 5%;
+		font-size: 32px;
+}
+
+h2	{
+	display: inline-block;
+	font-family: Arial;
+	color: white;
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 28px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.header	{
+			
+	display: inline-block;
+	position: fixed;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	margin-right: 300px;
+	margin-bottom: 100px;
+}
+
+.custompins {
+	display: inline-block;
+	margin-top: 10px;
+
+}
+
+.musicwriting {
+
+}
+
+
+.mainline	{
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.text	{
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 250px;
+	margin-right:100px;
+	margin-top:2px;
+	color: black;
+}
+
+
+
+.music	{
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	width: 20%;
+}
+
+.image	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.link	{
+	text-decoration: none;
+}
+
+.link:hover {
+   text-decoration: underline;
+}
