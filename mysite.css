@@ -3,6 +3,7 @@ body 	{
 }
 
 h1	{
+<<<<<<< HEAD
 		display: inline-block;
 		font-family: Arial;
 		color: white;
@@ -48,6 +49,41 @@ a {
 .mainline	{
 	display: inline-block;
 	margin-top: 30px;
+=======
+	display: inline-block;
+	font-family: Arial;
+	color: white;
+	margin-right:15px;
+}
+
+h2	{
+	font-family: Arial;
+	color: white;
+}
+
+a 	{
+	text-decoration: none;
+}
+
+.header	{
+			display: inline-block;
+			position: fixed;
+			margin-bottom: 20px;
+			margin-left: 0px;
+			margin-right: 300px;
+			margin-bottom: 100px;
+}
+
+
+.firsttext	{
+
+	display: inline-block;
+	font-family: Arial;
+	margin-top: 40px;
+	margin-left: 250px;
+	margin-right:100px;
+	color: black
+>>>>>>> a3dfcefff2261cc9700762b600e26724cd5c112b
 }
 
 .text	{
@@ -55,8 +91,12 @@ a {
 	font-family: Arial;
 	margin-left: 250px;
 	margin-right:100px;
+<<<<<<< HEAD
 	margin-top:2px;
 	color: black;
+=======
+	color: black
+>>>>>>> a3dfcefff2261cc9700762b600e26724cd5c112b
 }
 
 
@@ -70,7 +110,11 @@ a {
 	width: 20%;
 }
 
+<<<<<<< HEAD
 .image	{
+=======
+.imagearea	{
+>>>>>>> a3dfcefff2261cc9700762b600e26724cd5c112b
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
