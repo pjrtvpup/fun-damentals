@@ -1,0 +1,120 @@
+body 	{
+	background-color: #baa1ce;
+}
+
+.link	{
+	text-decoration: none;
+  	color: black;
+}
+
+.link:hover {
+   	text-decoration: underline;
+}
+
+.header	{
+	display: block;
+	position: absolute;
+	margin-top: 20px;
+	margin-bottom: 20px;
+  	margin-left: 250px;
+  	height: 50px;
+  	width: 850px;
+  	border: solid
+}
+
+.name	{
+
+	display: inline;
+	font-family: Arial;
+	color: Black;
+    padding: 10px;
+	font-size: 32px;
+}
+
+.custompins {
+	display: inline;
+	margin-top: 10px;
+  	padding: 10px;
+}
+
+.musicwriting {
+  	display:inline;
+  	margin-top: 10px;
+  	padding: 10px;
+}
+
+.radio {
+  	display:inline;
+  	margin-top:10px;
+  	padding: 10px;
+}
+
+h2	{
+	font-family: Arial;
+	color: black;
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 28px;
+}
+
+.mainline	{
+	display: inline-block;
+  	position: relative;
+	margin-top: 100px;
+	font-family: Arial;
+	color: black;
+  	margin-left: 250px;
+	margin-right:180px;
+  	text-decoration: none;
+  	border: solid
+}
+
+.firsttext	{
+
+	display: inline-block;
+	font-family: Arial;
+	margin-top: 50px;
+	margin-left: 150px;
+	margin-right: 100px;
+	color: black
+
+}
+
+.text	{
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 150px;
+	margin-right:100px;
+	margin-top:2px;
+	color: black;
+}
+
+.lasttext {
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 150px;
+	margin-right:100px;
+	margin-top:2px;
+	margin-bottom:50px;
+	color: black;
+}
+
+.music	{
+	display: block;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	width: 40%;
+}
+
+
+.photo	{
+	display: block;
+  	margin-top: 60px;
+	margin-left: 405px;
+	margin-right: auto;
+	width: 50%;
+}
+
+

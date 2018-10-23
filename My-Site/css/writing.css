@@ -1,0 +1,93 @@
+body 		{
+		background-color: #baa1ce;
+}
+
+.header	{
+		display: inline-block;
+		position: fixed;
+		margin-top: 20px;
+		margin-left: 0px;
+		margin-right: 300px;
+		margin-bottom: 100px;
+}
+
+h1	{
+		display: inline-block;
+		font-family: Arial;
+		color: white;
+		margin-left: 5%;
+		font-size: 32px;
+}
+
+h2	{
+
+		display: inline-block;
+		font-family: Arial;
+		color: white;
+		margin-left: 5%;
+		text-decoration: none;
+		font-size: 28px;
+
+}
+
+/*Band photos*/
+
+.sandygband	{
+	height: 450px;
+	width: 450px;
+	margin-bottom: 25px;
+}
+
+.databand	{
+	height: 450px;
+	width: 550px;
+	margin-bottom: 25px;
+}
+
+.palmband	{
+	height: 450px;
+	width: 650px;
+	margin-bottom: 25px;
+}
+
+.shamirband	{
+	height: 450px;
+	width: 450px;
+	margin-bottom: 25px;
+}
+
+.babarkurtband	{
+	height: 450px;
+	width: 450px;
+	margin-bottom: 25px;
+}
+
+.pulgasband	{
+	height: 450px;
+	width: 500px;
+	margin-bottom: 25px;
+}
+
+
+/*Photos and text-paired sections*/
+
+h3	{
+	margin-top: 25px;
+}
+
+.intro	{
+	display: inline-block;
+	float: left;
+	width: 50%;
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-right: 3px;
+}
+
+.article	{
+	display: inline-block;
+	float: left;
+	width: 70%;
+	margin-left: 150px;
+	margin-right: 3px;
+}
