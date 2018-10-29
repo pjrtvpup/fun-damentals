@@ -1,5 +1,5 @@
 body 	{
-	background-color: #baa1ce;
+	background-color: #f4f4f4;
 }
 
 .link	{
@@ -11,25 +11,38 @@ body 	{
    	text-decoration: underline;
 }
 
-.header	{
-	display: block;
-	position: absolute;
-	margin-top: 20px;
-	margin-bottom: 20px;
-  	margin-left: 250px;
-  	height: 50px;
-  	width: 850px;
-  	border: solid
-}
-
 .name	{
 
-	display: inline;
-	font-family: Arial;
+	display: block;
+	width: 250px;
+	position: relative;
+	padding: 20px;
+	margin: auto;
+	font-family: Garamond;
 	color: Black;
-    padding: 10px;
 	font-size: 32px;
+	margin-bottom: 10px;
 }
+
+h1 {
+	position: relative;
+	margin:auto;
+	margin-top: 5px;
+	margin-bottom:5px;
+}
+
+
+.header	{
+	display: block;
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 20px;
+  	margin:auto;
+  	height: 50px;
+  	width: 600px;
+  	align-content: center;
+}
+
 
 .custompins {
 	display: inline;
@@ -50,7 +63,7 @@ body 	{
 }
 
 h2	{
-	font-family: Arial;
+	font-family: Garamond;
 	color: black;
 	margin-left: 5%;
 	text-decoration: none;
@@ -60,21 +73,21 @@ h2	{
 .mainline	{
 	display: inline-block;
   	position: relative;
-	margin-top: 100px;
-	font-family: Arial;
+	margin-top: 40px;
+	font-family: Garamond;
 	color: black;
   	margin-left: 250px;
 	margin-right:180px;
+	margin-bottom: 20px;
   	text-decoration: none;
-  	border: solid
 }
 
 .firsttext	{
 
 	display: inline-block;
-	font-family: Arial;
-	margin-top: 50px;
-	margin-left: 150px;
+	font-family: Garamond;
+	margin-top: 20px;
+	margin-left: 100px;
 	margin-right: 100px;
 	color: black
 
@@ -82,8 +95,8 @@ h2	{
 
 .text	{
 	display: inline-block;
-	font-family: Arial;
-	margin-left: 150px;
+	font-family: Garamond;
+	margin-left: 100px;
 	margin-right:100px;
 	margin-top:2px;
 	color: black;
@@ -91,19 +104,18 @@ h2	{
 
 .lasttext {
 	display: inline-block;
-	font-family: Arial;
-	margin-left: 150px;
+	font-family: Garamond;
+	margin-left: 100px;
 	margin-right:100px;
 	margin-top:2px;
-	margin-bottom:50px;
+	margin-bottom:20px;
 	color: black;
 }
 
 .music	{
 	display: block;
-	margin-top: 80px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-top: 100px;
+	margin: auto;
 	margin-bottom: 10px;
 	width: 40%;
 }
@@ -111,10 +123,11 @@ h2	{
 
 .photo	{
 	display: block;
+	position: relative;
   	margin-top: 60px;
-	margin-left: 405px;
-	margin-right: auto;
-	width: 50%;
+  	margin:auto;
+  	height: 600px;
+	width: 400px;
 }
 
 

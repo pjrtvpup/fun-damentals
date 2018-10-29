@@ -1,93 +1,131 @@
 body 		{
-		background-color: #baa1ce;
+		background-color: #f4f4f4;
+}
+
+.super-header {
+	display: block;
+	position: relative;
+	padding: 20px;
+	text-align: center;
+}
+
+/*h1 is in the super-header*/
+
+h1 {
+	display: block;
+	position: relative;
+	font-family: Garamond;
+	margin:auto;
+	margin-top: 5px;
+	margin-bottom:5px;
 }
 
 .header	{
-		display: inline-block;
-		position: fixed;
-		margin-top: 20px;
-		margin-left: 0px;
-		margin-right: 300px;
-		margin-bottom: 100px;
+	display: block;
+	position: relative;
+	font-family: Garamond;
+	padding: 30px;
+	margin-bottom: 20px;
+  	margin:auto;
+  	height: 50px;
+  	width: 420px;
+  	align-content: center;
 }
 
-h1	{
-		display: inline-block;
-		font-family: Arial;
-		color: white;
-		margin-left: 5%;
-		font-size: 32px;
+.intro	{
+	display: block;
+	position: relative;
+	font-family: Garamond;
+	width: auto;
+	margin-top: 30px;
+	margin:center;
+	margin-bottom: 20px;
 }
+
+.intro-text {
+	text-align: center;
+	font-family: Garamond;
+}
+
+.article	{
+	display: block;
+	position: relative;	
+	font-family: Garamond;
+	margin:center;
+	padding: 20px;	
+}
+
+/*h2 is in the header*/
 
 h2	{
 
 		display: inline-block;
-		font-family: Arial;
+		font-family: Garamond;
 		color: white;
 		margin-left: 5%;
 		text-decoration: none;
 		font-size: 28px;
 
+/*h3 is band names*/
+
+}
+
+h3	{
+	position: relative;
+	font-family: Garamond;
+	margin-top: 25px;
+	margin-bottom:25px;
+	margin: center;
 }
 
 /*Band photos*/
 
-.sandygband	{
-	height: 450px;
-	width: 450px;
+.sandy-g-band	{
+	height: 350px;
+	width: 350px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 .databand	{
 	height: 450px;
 	width: 550px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 .palmband	{
 	height: 450px;
 	width: 650px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 .shamirband	{
 	height: 450px;
 	width: 450px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 .babarkurtband	{
 	height: 450px;
 	width: 450px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 .pulgasband	{
 	height: 450px;
 	width: 500px;
+	display: block;
+	margin:center;
 	margin-bottom: 25px;
 }
 
 
-/*Photos and text-paired sections*/
-
-h3	{
-	margin-top: 25px;
-}
-
-.intro	{
-	display: inline-block;
-	float: left;
-	width: 50%;
-	margin-top: 30px;
-	margin-left: 150px;
-	margin-right: 3px;
-}
-
-.article	{
-	display: inline-block;
-	float: left;
-	width: 70%;
-	margin-left: 150px;
-	margin-right: 3px;
-}
