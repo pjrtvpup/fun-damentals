@@ -1,0 +1,69 @@
+body {
+	font-family: garamond;
+	font-size: 32px;
+}
+
+.header {
+	width: span;
+	height:70px;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid grey;
+}
+
+
+
+.images {
+	padding: 20px;
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.sugar {
+	height: 400px;
+	width: 350px;
+	display: inline-block;
+}
+
+.chocolate {
+	height: 350px;
+	width:350px;
+	display: inline-block;
+}
+
+.lemon {
+	height: 400px;
+	width:350px;
+	display: inline-block;
+}
+
+.name-input {
+	padding: 8px 4px;
+	font-size: 22px;
+	border: 3px solid SlateBlue;
+}
+
+.name-button {
+	padding: 8px 4px;
+	font-size: 22px;
+}
+
+
+
+button {
+  padding: 20px;
+  background: transparent;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  margin-top: 30px;
+  text-shadow: 1px 1px 1px #202020;
+  font-family: garamond, sans-serif;
+  font-size: 18pt;
+  border: 1px solid grey;
+  color: lightblue;
+}
+
+
